@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: My Passions
-datePublished: '2016-08-13T21:01:05.259Z'
-dateModified: '2016-08-13T21:00:28.405Z'
+datePublished: '2016-08-13T21:02:58.692Z'
+dateModified: '2016-08-13T21:02:37.020Z'
 title: ''
 author: []
 via: {}
@@ -22,3 +22,5 @@ My Passions
 
 Obsessed with delivering customer value
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/190a50e6-3294-4a67-84fa-845344810838.jpg)
+
+Delivering technology and business consulting
