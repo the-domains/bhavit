@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-13T21:26:54.997Z'
-dateModified: '2016-08-13T21:26:48.272Z'
+datePublished: '2016-08-13T21:28:45.893Z'
+dateModified: '2016-08-13T21:28:29.581Z'
 title: Work Experience
 author: []
 via: {}
@@ -14,8 +15,7 @@ sourcePath: _posts/2016-08-13-work-experience.md
 authors: []
 publisher: {}
 starred: false
-url: work-experience/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Work Experience
