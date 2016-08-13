@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: My Passions
-datePublished: '2016-08-13T21:00:25.005Z'
-dateModified: '2016-08-13T20:59:46.776Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-13T21:01:05.259Z'
+dateModified: '2016-08-13T21:00:28.405Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-my-passions.md
+authors: []
+publisher: {}
+starred: false
 url: my-passions/index.html
 _type: Article
 
