@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Obsessed with delivering customer value
-datePublished: '2016-08-13T21:25:13.233Z'
-dateModified: '2016-08-13T21:23:13.086Z'
+datePublished: '2016-08-13T21:26:50.906Z'
+dateModified: '2016-08-13T21:26:47.921Z'
 title: ''
 author:
   - name: ''
