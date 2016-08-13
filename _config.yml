@@ -1,0 +1,28 @@
+name: Bhavit
+favicon: null
+layout_spectrum: 0.8349575917236507
+typography_spectrum: 0.29374650050885975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2120769030880183
+  lightness: 0.6425290943589061
+  saturation: 0.6414783166255802
+  rhythmicContrast: 0.7768904406111687
+purpose: []
