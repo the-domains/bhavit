@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-13T21:25:09.666Z'
-dateModified: '2016-08-13T21:23:01.701Z'
+datePublished: '2016-08-13T21:26:54.997Z'
+dateModified: '2016-08-13T21:26:48.272Z'
 title: Work Experience
 author: []
 via: {}
