@@ -4,21 +4,21 @@
         <description><![CDATA[Bhavit]]></description>
         <link>https://thegrid.ai/bhavit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 21:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 21:20:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bhavit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Work Experience]]></title>
+            <description><![CDATA[<article><h1>Work Experience</h1><h2>Delo Solutions - Entrepreneur and Principal Consultant</h2></article>]]></description>
+            <link>https://thegrid.ai/bhavit/work-experience/index.html</link>
+            <guid isPermaLink="false">0124c759-49bc-4376-aa6a-4eff24778e12</guid>
+            <pubDate>Sat, 13 Aug 2016 21:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Passions]]></title>
             <description><![CDATA[<p>Obsessed with delivering customer value</p>]]></description>
             <link>https://thegrid.ai/bhavit/my-passions/index.html</link>
             <guid isPermaLink="false">7a7550e6-312d-445e-96c7-875f87adc87b</guid>
             <pubDate>Sat, 13 Aug 2016 21:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Work Experience]]></title>
-            <description><![CDATA[<article><h1>Work Experience</h1><h2>Delo Solutions - Entrepreneur and Principal Consultant</h2></article>]]></description>
-            <link>https://thegrid.ai/bhavit/work-experience/index.html</link>
-            <guid isPermaLink="false">0124c759-49bc-4376-aa6a-4eff24778e12</guid>
-            <pubDate>Sat, 13 Aug 2016 21:19:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
