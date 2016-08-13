@@ -5,29 +5,26 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Obsessed with delivering customer value
-datePublished: '2016-08-13T21:09:35.330Z'
-dateModified: '2016-08-13T21:09:06.230Z'
-title: My Passions
+datePublished: '2016-08-13T21:15:55.549Z'
+dateModified: '2016-08-13T21:15:38.984Z'
+title: ''
 author:
   - name: ''
     url: ''
 via: {}
 sourcePath: _posts/2016-08-13-my-passions.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: false
 url: my-passions/index.html
 _type: Article
 
 ---
-# My Passions
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6322fb0a-0304-4f08-9a0e-4668f6aaabbe.png)
+
+My Passions  
 
 Obsessed with delivering customer value
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/190a50e6-3294-4a67-84fa-845344810838.jpg)
 
 Delivering technology and business consulting
 
