@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Obsessed with delivering customer value
-datePublished: '2016-08-13T21:15:55.549Z'
-dateModified: '2016-08-13T21:15:38.984Z'
+datePublished: '2016-08-13T21:19:11.627Z'
+dateModified: '2016-08-13T21:19:08.727Z'
 title: ''
 author:
   - name: ''
@@ -22,7 +22,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6322fb0a-0304-4f08-9a0e-4668f6aaabbe.png)
 
-My Passions  
+My Passions
 
 Obsessed with delivering customer value
 
