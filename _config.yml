@@ -1,6 +1,6 @@
 name: Bhavit
 favicon: null
-layout_spectrum: 0.43217
+layout_spectrum: 0.24211
 typography_spectrum: 0.37919
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.6425290943589061
   saturation: 0.6414783166255802
-  rhythmicContrast: 0.7768904406111687
+  rhythmicContrast: 0.75
 purpose: []
